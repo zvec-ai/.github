@@ -11,6 +11,9 @@ Think of us as your friendly neighborhood team making it easy to bring semantic 
 | **[zvec](https://github.com/alibaba/zvec)** | A lightweight, lightning-fast, in-process vector database. |
 | **[zvec-web](https://github.com/zvec-ai/zvec-web)** | The official web frontend and documentation portal for Zvec. |
 | **[zvec-node](https://github.com/zvec-ai/zvec-node)** | High-performance Node.js bindings for Zvec. |
+| **[zvec-mcp-server](https://github.com/zvec-ai/zvec-mcp-server)** | A Model Context Protocol (MCP) server for Zvec. |
+| **[zvec-agent-skills](https://github.com/zvec-ai/zvec-agent-skills)** | Official Agent skills for building with Zvec. |
+
 
 > More tools are on the way—stay tuned! 🛠️
 
