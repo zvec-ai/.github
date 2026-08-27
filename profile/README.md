@@ -7,11 +7,11 @@
   <p><strong>Local-first search infrastructure for applications, developer workspaces, and AI agents.</strong></p>
 
   <p>
-    <a href="https://zvec.org/en/">Website</a> ·
-    <a href="https://zvec.org/en/docs/db/">Documentation</a> ·
-    <a href="https://github.com/alibaba/zvec/discussions">Discussions</a> ·
-    <a href="https://discord.gg/rKddFBBu9z">Discord</a> ·
-    <a href="https://x.com/ZvecAI">X</a>
+    <a href="https://zvec.org/en/">🏠 Website</a> ·
+    <a href="https://zvec.org/en/docs/db/">📚 Documentation</a> ·
+    <a href="https://github.com/alibaba/zvec/discussions">💬 Discussions</a> ·
+    <a href="https://discord.gg/rKddFBBu9z">🎮 Discord</a> ·
+    <a href="https://x.com/ZvecAI">🐦 X</a>
   </p>
 </div>
 
