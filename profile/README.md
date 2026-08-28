@@ -1,3 +1,7 @@
+<p align="right">
+  English | <a href="./README_CN.md">中文</a>
+</p>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_log_2.svg">
@@ -17,7 +21,7 @@
 
 Zvec AI builds lightweight, embeddable search components that run where your data lives. Bring vector, full-text, and hybrid search directly into apps, devices, local tools, and agent workflows—without operating a separate database service.
 
-## Start here
+## 🚀 Start here
 
 | [Zvec](https://github.com/alibaba/zvec) | [zvec-grep](https://github.com/zvec-ai/zvec-grep) | [Zvec Studio](https://github.com/zvec-ai/zvec-studio) |
 | --- | --- | --- |
@@ -26,7 +30,7 @@ Zvec AI builds lightweight, embeddable search components that run where your dat
 | `pip install zvec`<br>`npm install @zvec/zvec` | `npm install -g @zvec/zvec-grep` | `pip install zvec-studio` |
 | [Quickstart](https://zvec.org/en/docs/db/quickstart/) · [Benchmarks](https://zvec.org/en/docs/db/benchmarks/) | [Get started](https://github.com/zvec-ai/zvec-grep#try-it-yourself) · [Docs](https://github.com/zvec-ai/zvec-grep/tree/main/docs) | [Get started](https://github.com/zvec-ai/zvec-studio#-quick-start) · [Releases](https://github.com/zvec-ai/zvec-studio/releases) |
 
-## Projects
+## 🧩 Projects
 
 | Category | Projects |
 | --- | --- |
@@ -37,7 +41,7 @@ Zvec AI builds lightweight, embeddable search components that run where your dat
 | **AI agents** | **[zvec-mcp-server](https://github.com/zvec-ai/zvec-mcp-server)** — MCP integration · **[zvec-agent-skills](https://github.com/zvec-ai/zvec-agent-skills)** — official agent skills |
 | **Documentation** | **[zvec-web](https://github.com/zvec-ai/zvec-web)** — source for [zvec.org](https://zvec.org/en/) |
 
-## Get involved
+## 🤝 Get involved
 
 Zvec is open source under the Apache License 2.0, and contributions of every size are welcome.
 
